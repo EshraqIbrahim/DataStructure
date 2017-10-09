@@ -3,7 +3,7 @@ package stack;
 import javax.management.RuntimeErrorException;
 
 /**
- * @author user
+ * @author use
  *
  */
 
