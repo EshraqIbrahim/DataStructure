@@ -6,6 +6,7 @@ import javax.management.RuntimeErrorException;
  * @author user
  *
  */
+
 public class SingleList implements ILinkedList {
 	/**
 	 * @author user
